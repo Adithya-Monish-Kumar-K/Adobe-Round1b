@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T23:00:19.421390"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Pulled Pork Sandwiches  Ingredients:",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Breakfast Casserole  Ingredients:",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Fruit and Nut Bars  Ingredients:",
+            "importance_rank": 3,
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Veggie and Hummus Wrap  Ingredients:",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "o   Scramble eggs in the same pan.  o   Add noodles, fish sauce, tamarind paste, sugar, and lime jui",
+            "importance_rank": 5,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "4 boneless, skinless chicken breasts 12 cup spinach, chopped 12 cup feta cheese, crumbled 14 cup sun-dried tomatoes, chopped 2 cloves garlic, minced 2 tablespoons olive oil Salt and pepper to taste Season pork shoulder with salt, pepper, and smoked paprika. Place onion and garlic in a slow cooker, then add pork. Mix barbecue sauce, chicken broth, and brown sugar, and pour over pork. Cook on low for 8 hours or high for 4 hours until pork shreds easily. Shred pork with forks and mix with sauce. Serve on buns with coleslaw if desired. Stuffed Chicken Breasts",
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "1 bagel, sliced and toasted 2 tablespoons cream cheese Optional toppings: smoked salmon, capers, red onion, tomato slices Preheat oven t350F (175C). In a bowl, whisk together eggs, milk, salt, and pepper. Stir in cheese, sausage or bacon, bell pepper, and onion. Pour the mixture inta greased baking dish. Bake for 30-35 minutes or until the eggs are set. Let cool slightly before serving. Bagel with Cream Cheese",
+            "page_number": 8
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "1 cup cottage cheese 14 cup diced cucumber 14 cup cherry tomatoes, halved 14 cup diced bell pepper Salt and pepper to taste In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. Season with salt and pepper. Serve immediately. Almond Butter and Apple Slices",
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "4 hard-boiled eggs, chopped 14 cup mayonnaise 1 tablespoon Dijon mustard 1 celery stalk, diced Salt and pepper to taste 2 slices whole grain bread Lay the tortilla flat and spread the hummus evenly. Add the cucumber, bell pepper, carrots, and spinach. Roll up the tortilla tightly and slice in half. Egg Salad Sandwich",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o 4 cups cubed bread o 4 tomatoes o 1 cucumber o 1 small red onion o 14 cup basil o 14 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon salt",
+            "page_number": 1
+        }
+    ]
+}
